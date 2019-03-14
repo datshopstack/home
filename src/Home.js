@@ -14,7 +14,7 @@ const Home = () => (
                 <div className="photo">
                   <a href="#">
                     <img
-                      src={"avatar.jpg"}
+                      src="https://datshopstack.github.io/home/avatar.jpg"
                       alt="image"
                     />
                   </a>
