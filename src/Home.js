@@ -12,9 +12,9 @@ const Home = () => (
             <div className="row">
               <div className="col-sm-4 col-md-4 col-lg-4">
                 <div className="photo">
-                  <a href="https://lmpixels.com/wp/aveo/">
+                  <a href="#">
                     <img
-                      src="//lmpixels.com/wp/aveo/wp-content/uploads/2017/09/photo.png"
+                      src={"avatar.jpg"}
                       alt="image"
                     />
                   </a>
